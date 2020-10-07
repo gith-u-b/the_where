@@ -90,13 +90,6 @@ User.the_where(params)
 User.the_where(params, { allow: [nil] })
 ```
 
-### Auto call strip for string
-- params
-```ruby
-
-```
-
-
 ### Order params
 - Params
 ```ruby
