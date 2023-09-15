@@ -3,20 +3,20 @@ require_relative 'lib/the_where/version'
 Gem::Specification.new do |spec|
   spec.name          = "the_where"
   spec.version       = TheWhere::VERSION
-  spec.authors       = ["sai1024"]
+  spec.authors       = ["sai"]
   spec.email         = ["rubyer1993@gmail.com"]
 
   spec.summary       = "Simpler query for ruby"
   spec.description   = "Simpler query for ruby"
-  spec.homepage      = "https://github.com/sai1024/the_where"
+  spec.homepage      = "https://github.com/gith-u-b/the_where"
   spec.license       = "MIT"
   # spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   # spec.metadata["homepage_uri"] = spec.homepage
-  # spec.metadata["source_code_uri"] = "https://github.com/sai1024/the_where"
-  # spec.metadata["changelog_uri"] = "https://github.com/sai1024/the_where/blob/main/README.md"
+  # spec.metadata["source_code_uri"] = "https://github.com/gith-u-b/the_where"
+  # spec.metadata["changelog_uri"] = "https://github.com/gith-u-b/the_where/blob/main/README.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
